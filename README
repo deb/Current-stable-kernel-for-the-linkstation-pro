@@ -1,3 +1,5 @@
 This repo contains a kernel for the linkstation pro.
 The linkstation pro is an arm based device.
 
+The script file (script-build-kernel.sh) is a bash script which when placed in a kernel source directory with an appropriate config (.config) will build a kernel.
+
