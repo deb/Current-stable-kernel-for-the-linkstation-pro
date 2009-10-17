@@ -1,5 +1,8 @@
-This repo contains a kernel for the linkstation pro.
+This repo contains a binary linux kernel and modules for the linkstation pro. Inaddition, a working kernel config / the config for current binary kernel in the repository is also present.
 The linkstation pro is an arm based device.
 
 The script file (script-build-kernel.sh) is a bash script which when placed in a kernel source directory with an appropriate config (.config) will build a kernel.
+
+You can find the source code to a given binary kernel in this repository at kernel.org 
+The linux kernel is licensed under a GPL V2 license.
 
